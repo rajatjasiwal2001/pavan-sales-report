@@ -5,14 +5,10 @@ This project analyzes **Pavan Sales Data** using **Excel** and **Power BI** to u
 ---
 
 ## 🔹 Project Files
-- **Dataset (Excel):** [Download Excel File](https://drive.google.com/...)  
-- **Power BI Dashboard (.pbix):** Available in this repository (`Pavan_Sales_Report.pbix`)  
+
 - **GitHub Repo:** [Click Here](https://github.com/rajatjasiwal2001/pavan-sales-report)
 
 ---
-
-## 📊 Dashboard Preview
-👉 [View Live Power BI Dashboard](https://app.powerbi.com/...)  
 
 ---
 
